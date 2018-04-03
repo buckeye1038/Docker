@@ -1,0 +1,24 @@
+#Local Files
+
+
+# ExampleExecutableCpp Files
+ExampleExecutableCpp/lib
+ExampleExecutableCpp/bin
+ExampleExecutableCpp/build
+ExampleExecutableCpp/cmake
+ExampleExecutableCpp/.cproject
+ExampleExecutableCpp/.project
+ExampleExecutableCpp/.gitignore
+ExampleExecutableCpp/.git
+
+# ExampleCpp Files
+ExampleCpp/lib
+ExampleCpp/bin
+ExampleCpp/build
+ExampleCpp/deploy
+ExampleCpp/.cproject
+ExampleCpp/.project
+ExampleCpp/.gitignore
+ExampleCpp/.git
+ExampleCpp/.che
+
