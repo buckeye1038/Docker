@@ -2,8 +2,6 @@
 
 
 # ExampleExecutableCpp Files
-ExampleExecutableCpp/lib
-ExampleExecutableCpp/bin
 ExampleExecutableCpp/build
 ExampleExecutableCpp/cmake
 ExampleExecutableCpp/.cproject
@@ -12,8 +10,6 @@ ExampleExecutableCpp/.gitignore
 ExampleExecutableCpp/.git
 
 # ExampleCpp Files
-ExampleCpp/lib
-ExampleCpp/bin
 ExampleCpp/build
 ExampleCpp/deploy
 ExampleCpp/.cproject
